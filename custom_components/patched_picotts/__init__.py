@@ -1,0 +1,1 @@
+"""Patched version of Home Assistant pico integration."""
